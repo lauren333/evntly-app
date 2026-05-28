@@ -1,0 +1,102 @@
+Recorrido guiado accesible en silla de ruedas con rampas incluidas.
+Visita a museo accesible con rampas para sillas de ruedas y ascensores.
+Función de teatro con asientos accesibles para sillas de ruedas y entrada accesible.
+Concierto de música accesible en lugar totalmente accesible.
+Exposición de arte accesible con rampas y ascensores.
+Visita al museo de ciencia accesible con caminos accesibles.
+Proyección de cine accesible en teatro accesible.
+Teatro infantil accesible con rampas y asientos para sillas de ruedas.
+Festival de música accesible con espacios totalmente accesibles.
+Festival cultural accesible con caminos y entradas accesibles.
+Feria navideña de manualidades accesible en lugar totalmente accesible.
+Torneo de juegos de mesa accesible en lugar accesible.
+Festival de narración accesible con rampas incluidas.
+Clase de creación de títeres accesible en lugar totalmente accesible.
+Picnic familiar accesible con caminos accesibles.
+Taller de codificación accesible para todas las habilidades, rampas disponibles.
+Sesión de arteterapia accesible en lugar totalmente accesible.
+Exposición de fotografía accesible con rampas y ascensores.
+Demostración científica accesible con caminos accesibles.
+Festival de teatro accesible con asientos para sillas de ruedas.
+Presentación musical accesible en lugar totalmente accesible.
+Taller de improvisación accesible con rampas y ascensores.
+Día de juego creativo accesible en lugar accesible.
+Muestra de arte infantil accesible con caminos accesibles.
+Taller de robótica accesible en lugar totalmente accesible.
+Taller de cuidado de plantas accesible con rampas incluidas.
+Festival de cine accesible con asientos accesibles en el teatro.
+Taller de instrumentos musicales accesible en lugar accesible.
+Día de experimentos científicos accesible con rampas y caminos accesibles.
+Retiro de escritura creativa accesible en lugar totalmente accesible.
+Torneo de ajedrez accesible con asientos accesibles.
+Evento musical navideño accesible en lugar accesible.
+Noche de observación de estrellas accesible en lugar totalmente accesible.
+Recorrido histórico guiado accesible con rampas incluidas.
+Visita a galería de arte accesible con rampas y ascensores.
+Clase de fotografía accesible en lugar accesible.
+Observación de ensayo de teatro accesible con asientos para sillas de ruedas.
+Función de títeres accesible en lugar totalmente accesible.
+Recital musical accesible con rampas incluidas.
+Taller de pintura accesible en lugar accesible.
+Demostración científica accesible con caminos accesibles.
+Conferencia comunitaria accesible con rampas disponibles.
+Noche de museo accesible en lugar totalmente accesible.
+Feria navideña de manualidades accesible con rampas incluidas.
+Presentación musical accesible para familias en lugar accesible.
+Hackathon de codificación accesible en lugar totalmente accesible.
+Día de manualidades infantiles accesible con rampas incluidas.
+Concierto de música accesible en lugar accesible.
+Noche de cine familiar accesible en teatro totalmente accesible.
+Caminata guiada accesible con rampas incluidas (apoyo explícito para sillas de ruedas).
+Recorrido de instalaciones artísticas accesible con caminos accesibles.
+Taller cultural accesible en lugar totalmente accesible.
+Taller de fotografía accesible con rampas incluidas.
+Festival de teatro accesible con asientos para sillas de ruedas.
+Taller de improvisación accesible en lugar accesible.
+Feria científica accesible con rampas y ascensores.
+Sesión de arteterapia accesible con caminos accesibles.
+Taller de escritura creativa accesible en lugar totalmente accesible.
+Recorrido por jardines accesible con rampas incluidas.
+Torneo de juegos de mesa accesible en lugar accesible.
+Feria navideña de manualidades accesible con rampas incluidas.
+Recital musical accesible en lugar totalmente accesible.
+Demostración de robótica accesible con rampas disponibles.
+Día de demostración científica accesible en lugar accesible.
+Taller de instrumentos musicales accesible con rampas incluidas.
+Hora de narración accesible en lugar accesible.
+Visita a museo accesible con rampas y ascensores.
+Picnic familiar accesible con caminos accesibles.
+Observación de ensayo de teatro accesible con asientos para sillas de ruedas.
+Clase de arte accesible en lugar totalmente accesible.
+Sesión de creación de títeres accesible con rampas incluidas.
+Evento musical navideño accesible en lugar accesible.
+Caminata fotográfica accesible con rampas y caminos accesibles.
+Proyección de cine accesible en teatro totalmente accesible.
+Taller de astronomía y observación de estrellas accesible en lugar accesible.
+Torneo de ajedrez accesible con asientos accesibles.
+Festival de teatro accesible con rampas incluidas.
+Hackathon de codificación accesible para todas las habilidades en lugar accesible.
+Visita a galería de arte accesible con rampas y ascensores.
+Clase de teatro musical infantil accesible con caminos accesibles.
+Feria navideña de manualidades accesible en lugar totalmente accesible.
+Recorrido guiado por la ciudad accesible con rampas incluidas.
+Concierto accesible con asientos para sillas de ruedas y entrada accesible.
+Taller de pintura accesible en lugar totalmente accesible.
+Demostración científica accesible con caminos accesibles.
+Presentación musical accesible para familias en lugar accesible.
+Noche de museo accesible con rampas incluidas.
+Función de títeres accesible en lugar totalmente accesible.
+Torneo de juegos de mesa accesible con rampas y caminos accesibles.
+Festival de cine accesible con asientos accesibles en teatro.
+Muestra de arte infantil accesible en lugar totalmente accesible.
+Torneo de ajedrez accesible con rampas incluidas.
+Evento musical navideño accesible en lugar accesible.
+Presentación musical accesible con rampas y ascensores.
+Visita a museo accesible con rampas y ascensores.
+Exposición de arte accesible con caminos accesibles.
+Visita a museo de ciencia accesible con rampas incluidas.
+Clase de creación de títeres accesible en lugar totalmente accesible.
+Festival de teatro accesible con rampas y asientos para sillas de ruedas.
+Hora de narración accesible con caminos accesibles.
+Visita a galería de arte accesible con rampas y ascensores.
+Hackathon de codificación accesible en lugar totalmente accesible.

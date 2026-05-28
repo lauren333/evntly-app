@@ -1,0 +1,12 @@
+EvntlyPlatform/frontend/.gitignore
+
+.env
+EvntlyPlatform/backend/api/__pycache__/__init__.cpython-310.pyc
+EvntlyPlatform/backend/api/__pycache__/routes.cpython-310.pyc
+EvntlyPlatform/backend/popup-58392-firebase-adminsdk-fbsvc-ce1dadf2dc.json
+
+EvntlyPlatform/mobile/GoogleService-Info.plist
+EvntlyPlatform/mobile/firebase.js
+
+__pycache__/
+*.pyc
