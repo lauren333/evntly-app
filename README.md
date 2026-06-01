@@ -3,6 +3,17 @@ An event discovery and scheduling application that aggregates event data from mu
  
 ---
 
+## Technology Stack
+| Technology | Purpose |
+|------------|---------|
+| ![React](https://img.shields.io/badge/React-20232A?logo=react) | Frontend user interface and client-side interactions |
+| ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask) | Backend REST API and server-side application logic |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb) | Persistent storage for events, users, reviews, and saved events |
+| ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase) | User authentication and account management |
+| ![Python](https://img.shields.io/badge/Python-3776AB?logo=python) | Backend development and machine learning components | 
+
+---
+
 ## Key Features
 - Aggregates event data from multiple APIs across European and North American cities
 - Browse upcoming events
@@ -20,31 +31,31 @@ An event discovery and scheduling application that aggregates event data from mu
 
 ## Screenshots
 
-### Event Discovery Feed
+### Event Discovery Feed & Filtering Interface
 
-![Event Feed](EvntlyPlatform/docs/event-feed.png)
-
----
-
-### Filtering Interface
-
-![Filtering](EvntlyPlatform/docs/filtering.png)
-
----
+<p align="center">
+  <img src="EvntlyPlatform/docs/event-feed.png" width="220px" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="EvntlyPlatform/docs/filtering.png" width="220px" />
+</p>
 
 ### Event Detail Page & Reviews
 
-![Event Details](EvntlyPlatform/docs/event-details.png)
-![Event Details](EvntlyPlatform/docs/event-details1.png)
-![Event Details](EvntlyPlatform/docs/event-details2.png)
+<p align="center">
+  <img src="EvntlyPlatform/docs/event-details.png" width="22%" />
+  <img src="EvntlyPlatform/docs/event-details1.png" width="22%" />
+  <img src="EvntlyPlatform/docs/event-details2.png" width="22%" />
+</p>
 
 ---
 
 ### Saved Events & Calendar View
 
-![Saved Events](EvntlyPlatform/docs/saved-events-calendar.png)
-![Saved Events](EvntlyPlatform/docs/saved-events-calendar1.png)
-![Saved Events](EvntlyPlatform/docs/saved-events-calendar2.png)
+<p align="center">
+  <img src="EvntlyPlatform/docs/saved-events-calendar.png" width="22%" />
+  <img src="EvntlyPlatform/docs/saved-events-calendar1.png" width="22%" />
+  <img src="EvntlyPlatform/docs/saved-events-calendar2.png" width="22%" />
+</p>
 
 ---
 
@@ -57,11 +68,13 @@ An event discovery and scheduling application that aggregates event data from mu
 | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase) | User authentication and account management |
 | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python) | Backend development and machine learning components | 
 
-—
+—--
 
 ## System Architecture
 
-![System Architecture](EvntlyPlatform/docs/System_Architecture.png)
+<p align="center">
+  <img src="EvntlyPlatform/docs/System_Architecture.png" width="40%" />
+</p>
 
 Service-based backend with batch ingestion, ML enrichment, and REST API delivery.
 
