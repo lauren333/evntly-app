@@ -1,15 +1,9 @@
-# Evntly!
+## Technology Stack
 
-Reminder:
-
-1.⁠⁠Main branch 
-- For finalized features that have been rigorously tested and approved by the whole team!!! 
-- Aka do not push here without rigorously testing in staging first 
-
-2.⁠Staging branch 
-- For testing the features before pushing to MAIN
-- Always check staging branch is up to date by pulling from main before testing features on this branch since we want this to be a copy of Main 
-
-3.Feature/NAME_OF_FEATURE branches 
-- everytime you work on a new feature/part for the project create and push your work to a brand new branch -> feature/NAME_OF_FEATURE
-- when creating a new branch locally, pull from MAIN branch first to make sure it’s up to date with our program 
+| Technology | Purpose |
+|------------|---------|
+| ![React](https://img.shields.io/badge/React-20232A?logo=react) | Frontend user interface and client-side interactions |
+| ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask) | Backend REST API and server-side application logic |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb) | Persistent storage for events, users, reviews, and saved events |
+| ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase) | User authentication and account management |
+| ![Python](https://img.shields.io/badge/Python-3776AB?logo=python) | Backend development and machine learning components | 
