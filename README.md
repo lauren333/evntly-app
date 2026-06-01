@@ -22,29 +22,29 @@ An event discovery and scheduling application that aggregates event data from mu
 
 ### Event Discovery Feed
 
-![Event Feed](docs/event-feed.png)
+![Event Feed](EvntlyPlatform/docs/event-feed.png)
 
 ---
 
 ### Filtering Interface
 
-![Filtering](docs/filtering.png)
+![Filtering](EvntlyPlatform/docs/filtering.png)
 
 ---
 
 ### Event Detail Page & Reviews
 
-![Event Details](docs/event-details.png)
-![Event Details](docs/event-details1.png)
-![Event Details](docs/event-details2.png)
+![Event Details](EvntlyPlatform/docs/event-details.png)
+![Event Details](EvntlyPlatform/docs/event-details1.png)
+![Event Details](EvntlyPlatform/docs/event-details2.png)
 
 ---
 
 ### Saved Events & Calendar View
 
-![Saved Events](docs/saved-events-calendar.png)
-![Saved Events](docs/saved-events-calendar1.png)
-![Saved Events](docs/saved-events-calendar2.png)
+![Saved Events](EvntlyPlatform/docs/saved-events-calendar.png)
+![Saved Events](EvntlyPlatform/docs/saved-events-calendar1.png)
+![Saved Events](EvntlyPlatform/docs/saved-events-calendar2.png)
 
 ---
 
@@ -61,7 +61,7 @@ An event discovery and scheduling application that aggregates event data from mu
 
 ## System Architecture
 
-![System Architecture](docs/System_Architecture.png)
+![System Architecture](EvntlyPlatform/docs/System_Architecture.png)
 
 Service-based backend with batch ingestion, ML enrichment, and REST API delivery.
 
