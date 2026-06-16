@@ -18,7 +18,7 @@ An event discovery and scheduling application that aggregates event data from mu
 - Aggregates event data from multiple APIs across European and North American cities
 - Browse upcoming events
 - Full-text search over event metadata (titles, descriptions, venues, time)
-- Multi-dimensional filtering across category, city (where applicable), keywords, and accessibility labels
+- Multi-dimensional filtering across category, city (where applicable), date, and accessibility labels
 - Unified query system with cumulatively refined results across search and filter inputs
 - Machine learning-based accessibility classification using a Naive Bayes model
 - Generates wheelchair accessible, family-friendly, and sober-friendly labels 
