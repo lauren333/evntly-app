@@ -70,10 +70,9 @@ Service-based backend with batch ingestion, ML enrichment, and REST API delivery
 ---
 
 ## Technical Highlights
-- Designed and implemented a multi-source event ingestion pipeline with data normalization across heterogeneous APIs
-- Developed a Naive Bayes-based classifier to predict accessibility-related event attributes
-- Implemented full-text search and multi-criteria filtering for event discovery using MongoDB query-based retrieval
-- Developed a RESTful backend architecture using Flask to handle event retrieval, user data, and interactions
+- Built a multi-source event ingestion pipeline with data normalization across external APIs
 - Integrated multiple external APIs (Ticketmaster, SeatGeek, Madrid Open Data, NYC Open Data) into a unified event schema
-- Implemented user authentication and persistent data storage using Firebase and MongoDB
-- Developed a saved events system with chronological organization and external calendar export support
+- Developed a Naive Bayes classifier to predict accessibility-related event attributes
+- Implemented full-text search and multi-criteria filtering using MongoDB queries and indexing
+- Designed a RESTful backend architecture with Flask for event and user management
+- Implemented user authentication and persistent data storage for saved events using Firebase and MongoDB
