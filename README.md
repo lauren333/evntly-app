@@ -75,3 +75,8 @@ Service-based backend with batch ingestion, ML enrichment, and REST API delivery
 - Implemented frontend search and multi-criteria filtering by combining user-selected filters into MongoDB queries.
 - Designed a modular Flask backend using Blueprints to separate event, user and review management.
 - Integrated Firebase Authentication and MongoDB to manage user accounts and persist saved and liked events.
+
+- ### Potential Future Improvements
+- Introduce Redux Toolkit for centralised state management of shared data, such as liked and saved events.
+- Develop a web data collection pipeline using permitted web-scraping sources to extract, parse and normalise event data, improving coverage of smaller local and pop-up events.
+- Implement a vector-based recommendation system using event and user-interest embeddings to identify and recommend semantically relevant events.
