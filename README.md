@@ -49,7 +49,7 @@ An event discovery and scheduling application that aggregates event data from mu
 
 ---
 
-### Saved Events & Calendar View
+### Saved Events & Calendar View & Their Filtering Interface
 
 <p align="center">
   <img src="EvntlyPlatform/docs/saved-events-calendar.png" width="22%" />
