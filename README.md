@@ -75,4 +75,4 @@ Service-based backend with batch ingestion, ML enrichment, and REST API delivery
 - Developed a Naive Bayes classifier to predict accessibility-related event attributes
 - Implemented full-text search and multi-criteria filtering using MongoDB queries and indexing
 - Designed a RESTful backend architecture with Flask for event and user management
-- Implemented user authentication and persistent data storage for saved events using Firebase and MongoDB
+- Implemented user authentication and persistent data storage for saved + liked events using Firebase and MongoDB
