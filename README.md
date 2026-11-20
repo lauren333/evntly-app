@@ -4,7 +4,7 @@ An event discovery and scheduling application that aggregates event data from mu
 ---
 
 ## Technology Stack
-| Technology | Purpose |
+| Technology |  |
 |------------|---------|
 | ![React](https://img.shields.io/badge/React-20232A?logo=react) | Frontend user interface and client-side interactions |
 | ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask) | Backend REST API and server-side application logic |
