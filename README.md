@@ -77,7 +77,7 @@ Service-based backend with batch ingestion, ML enrichment, and REST API delivery
 - Integrated Firebase Authentication and MongoDB to manage user accounts and persist saved and liked events.
 
 
-### Future Improvements
+## Future Improvements
 - Introduce Redux Toolkit for centralised state management of shared data, such as liked and saved events, reducing the need for prop drilling across pages.
 - Develop a web data collection pipeline using permitted web-scraping sources to extract, parse and normalise event data, improving coverage of smaller local and pop-up events.
 - Implement a vector-based recommendation system using event and user-interest embeddings to identify and recommend semantically relevant events.
